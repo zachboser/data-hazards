@@ -1,5 +1,4 @@
 # Contributors
-
 ### Recording Our Contributors
 
 The Data Hazards project exists because of the support and contributions of the many different people below.
